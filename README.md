@@ -8,7 +8,7 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 font-weight="bold"> About me</h2>  
 
-<img align="right" src = "https://media.giphy.com/media/tel4DU3dCiDdVUPhIg/giphy.gif" width = 190px>
+<img align="right" src = "https://media.giphy.com/media/tel4DU3dCiDdVUPhIg/giphy.gif" width = 280px>
 
 - 🌱 I’m currently learning **ReactJs**
 
@@ -26,10 +26,6 @@
 <a href="https://www.facebook.com/obsoletefutures/">
    <img src="https://media.giphy.com/media/vWJu6jXCM0d4Aze3oG/giphy.gif" height="100"alt="NOSTROMO"/>
 </a>
-
-<br>
-<br>
-<br> 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"><b> Skills, Languages, Tools & Technologies</b>
 
@@ -51,33 +47,28 @@
    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
    ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+   <img src="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/10/office_microsoft_adios.jpg?resize=1200%2C675&quality=60&strip=all&ssl=1" height='28' />&nbsp;&nbsp;
+   <img src="https://www.technipages.com/wp-content/uploads/2016/04/Excel-Header-600x281.png" height='28' />&nbsp;&nbsp;
    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-   ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
    <img src="https://www.gstatic.com/devrel-devsite/prod/v4f875a1b81b7f452d4ad95ddc2e0847267daa183c4980c794500a8a63318384d/firebase/images/lockup.svg" height='28' />
    <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
    <img src="https://img.shields.io/badge/Slack%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Freedcamp%20-%23F7DF1E.svg?&style=for-the-badge&color=3C4C65" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Sass%20-%23F7DF1E.svg?&style=for-the-badge&color=CD6799" />&nbsp;&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" height='28' />&nbsp;&nbsp;
+   <img src="https://user-images.githubusercontent.com/8939680/57233883-20344080-6fe5-11e9-8169-1eeb4c782683.png" height='28' />&nbsp;&nbsp;
+   <img src="https://www.acens.com/comunicacion/wp-content/images/2016/12/word-image-1-768x307.png" height='28' />&nbsp;&nbsp;
    <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
    ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
    ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-   <img src="https://github.com/AlenLong/Grupo_2_SugoiSushi_MVC/blob/master/site/public/img/1673058385209.png" height='28' />&nbsp;&nbsp;
-   <img src="https://github.com/AlenLong/Grupo_2_SugoiSushi_MVC/blob/master/site/public/img/Propellerhead-Reason-logo.jpg" height='28' />&nbsp;&nbsp;
+   <img src="https://github.com/AlenLong/readme/blob/main/1673058385209.png" height='28' />&nbsp;&nbsp;
+   <img src="https://github.com/AlenLong/readme/blob/main/Propellerhead-Reason-logo.jpg" height='28' />&nbsp;&nbsp;
    
-<br>
-<br> 
-
 ## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="45">  Assets : **Sound & Music** <a href="https://soundcloud.com/user-340743944"> 
 <img align="rigth"  alt="GIF" height="100px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" /> </a> <a href="https://soundcloud.com/user-340743944"> 
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="100px" > </a>
    
-
-
-<br>
-<br> 
-
 ## <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px">  Connect with Me 
 
 <img src="https://media.giphy.com/media/J4JSpIwM6y3Q6xnHgg/giphy.gif" width="250">
