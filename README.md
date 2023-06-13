@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 🎓 I’m currently working on **Private Project**
+- 🎓 I’m currently working on a **Startups**
 
 - 🔭 I’m looking to collaborate on **Full Stack Project**
 
