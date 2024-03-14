@@ -10,7 +10,7 @@
 
 <img align="right" src = "https://media.giphy.com/media/tel4DU3dCiDdVUPhIg/giphy.gif" width = 280px>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs** & **JAVA**
 
 - 💬 Ask me about **JavaScript**
 
