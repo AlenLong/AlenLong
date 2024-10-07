@@ -8,17 +8,8 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 font-weight="bold"> About me</h2>  
 
-<style>
-  @media (max-width: 768px) {
-    .responsive-image {
-      display: block;
-      margin: 0 auto;
-      text-align: center;
-    }
-  }
-</style>
 
-<img class="responsive-image" align="right" src = "https://media.giphy.com/media/tel4DU3dCiDdVUPhIg/giphy.gif" width = 280px>
+<img align="right" src = "https://media.giphy.com/media/tel4DU3dCiDdVUPhIg/giphy.gif" width = 280px>
 
 - 🌱 I’m currently learning **ReactTs** & **JAVA**
 
