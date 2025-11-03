@@ -11,13 +11,13 @@
 
 <img align="right" src = "https://media.giphy.com/media/tel4DU3dCiDdVUPhIg/giphy.gif" width = 280px>
 
-- 🌱 I’m currently learning **ReactTs** & **JAVA**
+- 🌱 I’m currently learning **Nestjs** & **Next.js**
 
 - 💬 Ask me about **JavaScript**
 
-- 🎓 "I'm currently working at **Australbyte**
+- 🎓 I'm currently working at **Australbyte**
 
-- 🔭 "I’m looking to work in another **Company**
+- 🔭 I’m always keen to connect and collaborate — let’s build something great together!
 
 - 😊 Fun fact: I love science fiction and retro technology. You can follow me!
 
