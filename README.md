@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 🎓 I'm currently working at **Australbyte**
+- 🎓 I'm currently working at [AUSTRALBYTE](https://australbyte.com)
 
 - 🔭 I’m always keen to connect and collaborate — let’s build something great together!
 
